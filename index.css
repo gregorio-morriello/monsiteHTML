@@ -58,12 +58,21 @@ h1{
 
 
 
+.produitt{
 
+  display: flex;
+  justify-content: center;
 
+}
 
-
-
-
-
+.produitt img {
+  width: 10%
+margin-right: 10px;
+}
+ 
+.news{
+background: #B0E0E6;
+  
+}
 
 
