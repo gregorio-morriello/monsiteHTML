@@ -75,4 +75,37 @@ background: #B0E0E6;
   
 }
 
+.footer{
+  padding: 70px;
+  width: 1425px;
+  height: 300px;
+  text-align: left;
+background: #000000
+}
+
+.footer2{
+  padding: 70px;
+  width: 1420px;
+  height: 300px;
+  text-align: left;
+background: #000000
+}
+
+.Footer3{
+  display: flex;
+
+}
+
+
+@media screen and (max-width: 600px)
+{
+color: red;  
+
+}
+ 
+
+
+
+
+
 
